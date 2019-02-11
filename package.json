@@ -1,0 +1,14 @@
+{
+  "name": "http_requests",
+  "version": "1.0.0",
+  "description": "Making HTTP requests using the request HTTP client",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing http request"
+  },
+  "author": "Gideon Brasil",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
